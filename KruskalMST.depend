@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1497990333 source:d:\clases\kruskalmst\edge.cpp
+	"Edge.h"
+
+1497990428 d:\clases\kruskalmst\edge.h
+
+1497988884 source:d:\clases\kruskalmst\main.cpp
+	"Test.h"
+	<iostream>
+	"Edge.h"
+	<cstring>
+
+1497988884 d:\clases\kruskalmst\test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<map>
+	<queue>
+	<list>
+	"Edge.h"
+
+1497988884 source:d:\clases\kruskalmst\test.cpp
+	"Test.h"
+
